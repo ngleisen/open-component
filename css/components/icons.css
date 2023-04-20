@@ -1,0 +1,13 @@
+.fas {
+  font-weight: bold;
+  color: rgb(50, 148, 223)
+}
+
+.fa-sharp {
+  font-weight: bold;
+  color: red;
+}
+
+.main-card .fas {
+  color: white;
+}
